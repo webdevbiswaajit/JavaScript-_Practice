@@ -26,7 +26,72 @@ Class-04:
 	9.(-)Highpen is not allowed in JavaScript
 	10.JavaScript support the Uni-code charterset
 
+Class-05:
+	1.Single Line comment{ // comment}
+	2.Multiple Line Comment /*comment*/
 
+Class-06:
+	1.Variable
+	2.Var multiple declared
+
+Class-07:
+	1.Let {2015}
+	2.Let can not be Redeclare
+	3.Block scope:
+		1.Global scope
+		2.Privet scope
+		3.function Scope
+	5.
+
+Class-08:
+	1.Const(After declaretion Can not Changes Its value.Reassing is Denide)
+	2.When Declared Const ( A New Array,A New Object,A new Function, A New regular expression)
+
+Class-09:
+	1.Operator bs mohas selen 29 no chorsonak 4 , 5 brs
+	2.** Squree
+	3.TypeOf (Data Type) Operator
+	4.Oparend=Operator=Oparend
+
+Class-10:
+	1.Assingment 
+
+Class-11:(Data Type)
+	1.Javascripte evaluates Expression from left To write (ex:let x=16+4+'Hello'; Output:20Helow)
+	2.Object data Type
+	3.Undefind means its Value
+
+Class-12:(Function)
+      1.Function is a block of code designed to perform a perticular task
+	  2.{This name is scope}
+	  3.fubction sleep(parameter)
+	  4.sleep(argument)
+	  5.Function made By Object
+
+Class-13:(Object)
+	1.Call Oboject value (car.name or car['name'])
+	2.If need Function call in Object That Is (car.start())
+	3. const person={
+		firstName:'Biswajt',
+		lastNmae:'sikdar',
+		id 		:5566,
+		fullName:function(){
+			return this.firstname + this.lastNmae;
+			//Usesing the 'this'==(person) keyword That meens the woner of function
+		}
+	}
+	4.let x=5;(Output It is number)
+	5.let x = new Number/String/Boolen(5);(Output:It Returns an Oboject)
+
+Class-14:(Event)
+	1.Event Name: (OnChange,onClick,OnMouseHover,OnMouseOut,onKeydown,onload.........)
+	
+Class-15:(String)
+	1. let text='Biswajit sikdar';
+		console.log(text.length())
+	2.\"Viking\ to print Quataton in String
+	3.String Can Be Object
+Class-16:(String Method)
 
 
 
@@ -47,11 +112,13 @@ Class-04:
 git init
 git add README.md
 git commit -m "first commit"
-git branch -M main
 git remote add origin https://github.com/webdevbiswaajit/JavaScript-_Practice.git
 git push -u origin main
 ==============================
 …or push an existing repository from the command line
 git remote add origin https://github.com/webdevbiswaajit/JavaScript-_Practice.git
 git branch -M main
-git push -u origin main}
+git add .
+git commit -m "first commit"
+git push -u origin main
+}
