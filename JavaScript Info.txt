@@ -1,3 +1,37 @@
 Class-01:
 	1.Es=Ecma script(Europian conouters manufactures assciociation)
 	2.Es1 to Es3 (1197-199) Es5 (2009) Es6(2015)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{echo "# JavaScript-_Practice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/webdevbiswaajit/JavaScript-_Practice.git
+git push -u origin main
+==============================
+…or push an existing repository from the command line
+git remote add origin https://github.com/webdevbiswaajit/JavaScript-_Practice.git
+git branch -M main
+git push -u origin main}
