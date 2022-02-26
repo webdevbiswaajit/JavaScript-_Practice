@@ -1,0 +1,1 @@
+document.getElementById("myname").innerText = "sikdar";

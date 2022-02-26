@@ -1,10 +1,30 @@
 Class-01:
 	1.Es=Ecma script(Europian conouters manufactures assciociation)
 	2.Es1 to Es3 (1197-199) Es5 (2009) Es6(2015)
+	3.Father Of java script Sir.Brendan EiCh (1995 invention year,Ecma standerd 1997)
+	4.Officil Name 👍(ECMA-262);
+	5.EcmaScript Is the Official name of JavaScript
 
+Class-02:
+	1.java Script is clint site Language
 
+Class-03:
+	1.Java Script Ignore the Multiple spaces
+	2.inside The elements of {} is colled The Block
 
-
+Class-04:
+	1.Value Is Two Type:
+		*Fixed Value(Litarel value)
+		*Variable Value(Variables)
+	2.Operator(+,-,*,/,%)
+	3.Expression(Expression is an conbination of value,operation which compute to a single value)
+	4.Statement(values,Expression,keyword and command)
+	5.Let (The Let key keyword tells The browser to create a Variable)
+	6.comment (Create text for info for code)
+	7.Identyfire(It is the idnentyfi the any word,keyword)
+	8.JavaScript is Case sensetive
+	9.(-)Highpen is not allowed in JavaScript
+	10.JavaScript support the Uni-code charterset
 
 
 
