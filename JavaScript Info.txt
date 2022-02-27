@@ -91,11 +91,41 @@ Class-15:(String)
 		console.log(text.length())
 	2.\"Viking\ to print Quataton in String
 	3.String Can Be Object
+
 Class-16:(String Method)
+	1.slice(start,end) //Slice(start position , end Position)
+	2.subString(start,end)//Same As slice But it can not access Negative value
+	3.subStr(start,length)//It will be used to cut the (8-start ,end 7)
+	4.If string method argument is start the negative value it should be count end of the steing  (-12,-6) Her (12<< is 6)
+	5.replace() method replace specifid value with another value in string
+		let text ='Please Visit the Microofoft';
+		let newTxt=text.replace('Microofoft','W3 school')
+	6.replace Method is replace the First match value And It Case Sencetive
+	7. To converted Upper case And Lower case or cappitalized used
+		1.value.toUpperCase(),
+		2.value.toLowerCase(),
+		3Concate the To value value2.concat(' ',value2)
+	8.String is cant be Changes but it will be changed (string is unchanged (immutable))
+	9.trim() // Trim is use for Remove the White spaces
+	10.let x=5:
+		x.padStart(4,0); // return 00005 add first number or string;
+		x.padStart(4,0); // return 50000 add last number or Value;
+	11.charAt(0) Methoad the charecter at as specifid index(position) in a string;
+	12.split('divide sign') //split converted a string to array; 
+	13.split if can not use separetor then it make  single array by string
 
+ Class-17:(String search)
+	1.indexOf() // it use of finding the index position of a  string,and it will be case 	Sencetive
+	2.lastIndexOf()// last index of in string find
+	3.search() // match the first value
+	4.string.match() // search the all matches value of in string and returan it array
+	5.string.include() // search value cheek in the string 
+	6.string.startValue(search value ,start) //
 
-
-
+ Class-18: Template Litarel
+	1.power is my life of won
+	2.${value} called interpolation
+	3.`` synax of Template Litarel
 
 
 
